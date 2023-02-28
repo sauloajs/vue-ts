@@ -14,7 +14,8 @@
     "luxon": "^3.2.1",
     "pinia": "^2.0.32",
     "ts-node": "^10.9.1",
-    "vue": "^3.2.45"
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@types/cors": "^2.8.13",
